@@ -14,6 +14,10 @@
 10. update the app.py
 
 
+git config --global user.email devarakondajagannath2580@yahoo.com
+git config --global user.name jagannath20-dev
+
+
 ```bash
 conda create -n cnncls python=3.8 -y
 
