@@ -32,3 +32,4 @@ conda activate cnncls
 ```bash
 pip install -r requirements.txt
 ```
+ 
