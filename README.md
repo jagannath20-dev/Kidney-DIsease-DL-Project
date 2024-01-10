@@ -33,3 +33,4 @@ conda activate cnncls
 pip install -r requirements.txt
 ```
  
+git commit -m "Data Ingestion Completed"
